@@ -26,3 +26,12 @@ manipulation and analysis in Python.
 -   **Linear system:** `A × x = b  ⇒  x = A⁻¹b`.
 -   **Eigen decomposition:** `A v = λ v`, where `λ` is an eigenvalue and
     `v` is an eigenvector.
+
+## Coding
+
+
+## Output
+
+
+## Result
+
